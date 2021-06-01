@@ -1,2 +1,2 @@
-# web_design_test
+# kalipinna.github.io
 testing stuff for my web design course
